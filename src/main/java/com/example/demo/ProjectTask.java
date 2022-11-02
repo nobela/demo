@@ -15,5 +15,6 @@ public class ProjectTask {
     private Long Taskid;
     private String  TaskName;
     private Date  TaskDateCreated;
+    private Date TaskDueDate;
             
 }
